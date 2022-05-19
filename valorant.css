@@ -1,0 +1,166 @@
+img{
+    margin-top: -330px;
+    margin-left: -330px;
+    height: 400px;
+    width: 1349px;
+}
+body{
+    text-align: left;
+    margin: 330px;
+    font-family:inherit ;
+    position: relative;
+    background-position: center;
+    background-image: url(nuevofondo.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    
+}
+
+.wave{
+    color: black;
+}
+
+
+.contenido{
+    border-style: solid;
+    background-color: rgba(255, 255, 255, 0.151);
+    border-radius: 10px;
+    padding: 5px;
+    border-width: 2px;
+    border-color: rgb(241, 238, 238);
+    flex-direction: column;
+}
+.wave{
+    margin-top: -154px;
+    width: 1350px;
+    margin-left: -330px;
+    
+}
+h1{
+    text-align: left;
+    margin-top: 10px;
+    font-size: 19px;
+    font-weight: normal;
+    position: absolute;
+    color: white;
+    
+    
+ 
+}
+h9{
+    font-weight: bold;
+    font-size: 20px;
+    position: absolute;
+    margin-top: 69px;
+    color: white;
+    
+    
+}
+.espacio{
+    margin-top: 70px;
+}
+h2{
+    font-weight: normal;
+    font-size: 19px;
+    position: absolute;
+    margin-top: 115px;
+    color: white;
+    
+}
+
+h3{
+    font-size: 20px;
+    position: absolute;
+    margin-top: 189px;
+    color: white;
+    
+}
+.requisitos{
+    font-size: 19px;
+    margin-left: 25px;
+    margin-top: 230px;
+    position: absolute;
+    color: white;
+    
+    
+}
+h5{
+    font-size: 20px;
+    position: absolute;
+    margin-top: 745px;
+    font-family: inherit;
+    color: white;
+    
+}
+h6{
+    font-size: 20px;
+    position: absolute;
+    margin-top: 790px;
+    font-family: inherit;
+    font-weight: normal;
+    color: white;
+   
+}
+.derecha img{
+    height: 230px;
+    width: 300px;
+    margin: auto;
+    float: left;
+    
+}
+.izquierda img{
+    height:     230px;
+    width: 300px;
+    margin: auto;
+    float: right;
+
+}
+.imagenes img{
+    margin-top: 460px;
+}
+.mapa img{
+    width: 680px;
+    margin-top: 310px;
+    margin-left: -1px;
+}
+
+.razon2{
+    margin-top: 45px;
+    font-family: inherit;
+    font-size: 20px;
+    font-weight: bold;
+    color: white;
+   
+}
+.explicacion2{
+    font-family: inherit;
+    font-size: 20px;
+    font-weight: normal;
+    margin-top: 20px;
+    color: white;
+}   
+.twitch img{
+    margin-top: 38px;
+    width: 680px;
+    height:380px;
+    margin-left: -1px;
+    border-style: hidden;
+    
+}
+.conclusiones{
+    margin-top: 48px;
+    font-family: inherit;
+    font-weight: normal;
+    font-size: 19px;
+    color: white;
+}
+.link{
+    margin-top: 12px;
+    font-family: inherit;
+    font-weight: normal;
+    font-size: 19px;
+    color: white;
+}
+
+
